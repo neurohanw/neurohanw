@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan
 =============================================================================================================================
 
-Data & Engineering
+AI | Azure | Data & Engineering
 ------------------
 
 A passionate Data Engineer with a strong focus on Artificial Intelligence (AI) and Cloud Technologies, particularly Microsoft Azure. I specialize in building scalable data pipelines, creating real-time data processing solutions, and leveraging AI/ML models to drive insightful decision-making.

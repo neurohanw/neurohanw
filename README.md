@@ -9,7 +9,7 @@ A passionate Data Engineer with a strong focus on Artificial Intelligence (AI) a
 * 🌍  I'm based in Pune, MH India
 * ✉️  You can contact me at [rohanwankhede98@gmail.com](mailto:rohanwankhede98@gmail.com)
 * 🧠  I'm learning GEN AI , Azure Services
-* 🤝  I'm open to collaborating on I'm always open to new collaborations and discussions around data engineering, cloud technologies, and AI-driven solutions. Let’s connect!
+* 🤝  I'm always open to new collaborations and discussions around data engineering, cloud technologies, and AI-driven solutions. Let’s connect!
 * ⚡  Feel free to explore my repositories! Here, you'll find code snippets, project solutions, and collaborations related to data engineering, Azure cloud solutions, and AI innovations
 
 ### Skills

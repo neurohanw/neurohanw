@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan
 =============================================================================================================================
 
-AI | Azure | Data & Engineering
+Data & Engineering
 ------------------
 
 A passionate Data Engineer with a strong focus on Artificial Intelligence (AI) and Cloud Technologies, particularly Microsoft Azure. I specialize in building scalable data pipelines, creating real-time data processing solutions, and leveraging AI/ML models to drive insightful decision-making.
 
 * 🌍  I'm based in Pune, MH India
-* ✉️  You can contact me at [rohanwankhede01@gmail.com](mailto:rohanwankhede01@gmail.com)
+* ✉️  You can contact me at [rohanwankhede98@gmail.com](mailto:rohanwankhede98@gmail.com)
 * 🧠  I'm learning GEN AI , Azure Services
-* 🤝  I'm always open to new collaborations and discussions around data engineering, cloud technologies, and AI-driven solutions. Let’s connect!
+* 🤝  I'm open to collaborating on I'm always open to new collaborations and discussions around data engineering, cloud technologies, and AI-driven solutions. Let’s connect!
 * ⚡  Feel free to explore my repositories! Here, you'll find code snippets, project solutions, and collaborations related to data engineering, Azure cloud solutions, and AI innovations
 
 ### Skills
